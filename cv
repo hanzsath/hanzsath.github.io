@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name – CV</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Your Name</h1>
+    <h2>Linux & Cybersecurity Enthusiast</h2>
+    <section>...</section>
+  </div>
+</body>
+</html>
